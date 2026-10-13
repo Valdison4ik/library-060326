@@ -58,8 +58,8 @@ class BookAdmin(admin.ModelAdmin):
     search_fields = ('title', 'category__name', 'publisher__name', 'book_authors__author__last_name')
     list_filter = ('category', 'publisher', 'published_date')
     ordering = ('-published_date',)
-    fields = ('title', 'category', 'created_at', 'updated_at', 'published_date', 'cover')
-    readonly_fields = ('published_date', 'updated_at', 'created_at')
+
+
 
     # @admin.action(description='Change book category to classic')
     # def to_classic(self, request, queryset):
