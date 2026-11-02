@@ -2,14 +2,20 @@ from django.core.validators import MinValueValidator
 from django.db import models
 from django.utils.translation import gettext_lazy as _
 
-from apps.base.models import TimeStampModel, UUIDModel
+from apps.base.models import TimeStampModel, UUIDModel, SoftDeleteModel
 from .authors import AuthorModel
 from .categories import CategoryModel
 from .genres import GenreModel
 from .publishers import PublisherModel
 
+# BookModel.objects.all() - return all - soft_deleted
+# BookModel.deleted_objects.all() - return all soft deleted
+# BookModel.all_objects.all() - all (active + soft_deleted)
 
-class BookModel(UUIDModel, TimeStampModel):
+
+
+
+class BookModel(UUIDModel, TimeStampModel, SoftDeleteModel):
     title = models.CharField(max_length=100)
     authors = models.ManyToManyField(
         AuthorModel,

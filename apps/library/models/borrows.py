@@ -2,12 +2,12 @@ from django.conf import settings
 from django.db import models
 from django.utils import timezone
 
-from apps.base.models import TimeStampModel
+from apps.base.models import TimeStampModel, SoftDeleteModel
 from .books import BookModel
 from .libraries import LibraryModel
 
 
-class BorrowModel(TimeStampModel):
+class BorrowModel(TimeStampModel, SoftDeleteModel):
     member = models.ForeignKey(
         settings.AUTH_USER_MODEL,
         on_delete=models.PROTECT,

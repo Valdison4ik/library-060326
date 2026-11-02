@@ -6,3 +6,4 @@ from .borrows import (
     )
 
 from .categories import CategorySerializer
+from .genres import GenreSerializer

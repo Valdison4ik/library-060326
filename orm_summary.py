@@ -168,19 +168,28 @@ from apps.library.models import BookModel, CategoryModel, AuthorModel, MemberRol
 
 
 
-book_1 = BookModel.objects.get(pk='8c497b57-737d-490e-b99b-04840d8b4f35')
-book_1.refresh_from_db()
-print(book_1.page_count)
-book_1.page_count = F('page_count') + 1
-book_1.save(update_fields=['page_count'])
-book_1.save(update_fields=['page_count'])
+# book_1 = BookModel.objects.get(pk='8c497b57-737d-490e-b99b-04840d8b4f35')
+# book_1.refresh_from_db()
+# print(book_1.page_count)
+# book_1.page_count = F('page_count') + 1
+# book_1.save(update_fields=['page_count'])
+# book_1.save(update_fields=['page_count'])
+#
+# book_1 = BookModel.objects.get(pk='8c497b57-737d-490e-b99b-04840d8b4f35')
+# print(book_1.page_count)
+#
 
-book_1 = BookModel.objects.get(pk='8c497b57-737d-490e-b99b-04840d8b4f35')
-print(book_1.page_count)
 
 
+from apps.library.urls.urls_name_examples import router
+for url in router.urls:
+    print(url.name, url.pattern)
 
+print('*' * 20)
 
+from apps.library.urls.urls_normal import router
+for url in router.urls:
+    print(url.name, url.pattern)
 
 
 

@@ -15,12 +15,16 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+LOGS_DIR = BASE_DIR / 'logs'
+LOGS_DIR.mkdir(exist_ok=True)
+
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/6.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-d2ggic@^(*^d@+6m=1b)_o0potj#tuq2_n7im2385_+%q*43v0'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -77,12 +81,62 @@ TEMPLATES = [
 WSGI_APPLICATION = 'config.wsgi.application'
 
 
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'sql': {
+            'format': '[{asctime}] - {message}',
+            'style': '{',
+            'datefmt': '%H:%M:%S',
+        }
+    },
+
+    'handlers': {
+        'console': {
+            'level': 'DEBUG',
+            'class': 'logging.StreamHandler',
+            'formatter': 'sql',
+
+        },
+        'sql_file': {
+            'level': 'DEBUG',
+            'class': 'logging.handlers.RotatingFileHandler',
+            'formatter': 'sql',
+            'filename': LOGS_DIR / 'sql.log',
+            'maxBytes': 1024 * 1024 * 5,
+            'backupCount': 5,
+            'encoding': 'utf8',
+        },
+
+    },
+    'loggers': {
+        'django': {
+
+        },
+        'django.request': {
+
+        },
+        'django.template': {
+
+        },
+        'django.db.backends': {
+            'handlers': ['sql_file', 'console'],
+            'level': 'DEBUG',
+            'propagate': False,
+        }
+    }
+}
+
+
 REST_FRAMEWORK = {
     'DEFAULT_FILTER_BACKENDS': (
         'rest_framework.filters.SearchFilter',
         'rest_framework.filters.OrderingFilter',
         'django_filters.rest_framework.DjangoFilterBackend',
-    )
+    ),
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10,
 }
 
 # Database

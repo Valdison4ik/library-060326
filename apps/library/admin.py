@@ -3,6 +3,7 @@ from django.contrib import messages
 from django.utils import timezone
 from django.utils.html import format_html
 
+from apps.base.models import SoftDeleteModel
 from .models import (
     AuthorDetailModel,
     AuthorModel,
@@ -51,13 +52,26 @@ def to_classic(modeladmin, request, queryset):
 
 @admin.register(BookModel)
 class BookAdmin(admin.ModelAdmin):
-    list_display = ('id', 'title', 'category', 'get_authors', 'publisher', 'published_date', 'display_cover')
-    list_editable = ('title', 'category')
-    list_select_related = ('category', 'publisher')
+    list_display = ('id', 'title', 'is_deleted')
+    list_editable = ('title',)
+    # list_select_related = ('category', 'publisher')
 
     search_fields = ('title', 'category__name', 'publisher__name', 'book_authors__author__last_name')
-    list_filter = ('category', 'publisher', 'published_date')
+    list_filter = ('category', 'publisher', 'published_date', ('deleted_at', admin.EmptyFieldListFilter))
     ordering = ('-published_date',)
+    actions = ['restore']
+
+    def get_queryset(self, request):
+        return BookModel.all_objects.all()
+
+
+    @admin.action(description='Restore deleted books')
+    def restore(self, request, queryset):
+        count = queryset.restore()
+        self.message_user(
+            request, f'Restored {count} books.', messages.SUCCESS)
+
+
 
 
 
@@ -67,7 +81,7 @@ class BookAdmin(admin.ModelAdmin):
     #     res = queryset.update(category=classic, updated_at=timezone.now())
     #     self.message_user(request, f'Changed book category to classic = {res}', messages.SUCCESS)
 
-    actions = [to_classic]
+    # actions = [to_classic]
 
 
     @admin.display(description='Book Photo')
@@ -85,18 +99,3 @@ class BookAdmin(admin.ModelAdmin):
     def get_authors(self, obj):
         authors = '; '.join(item.last_name for item in obj.authors.all())
         return authors
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

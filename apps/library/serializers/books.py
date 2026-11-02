@@ -49,10 +49,19 @@ class BookDetailSerializer(serializers.ModelSerializer):
         model = BookModel
         fields = ['id', 'title', 'category', 'page_count', 'published_date', 'genres']
 
-    def to_representation(self, instance):
-        data = super().to_representation(instance)
-        if not self.context.get('include_genres'):
-            data.pop('genres')
-        return data
+    # def to_representation(self, instance):
+    #     data = super().to_representation(instance)
+    #     if not self.context.get('include_genres'):
+    #         data.pop('genres')
+    #     return data
+
+
+class BookShortSerializer(serializers.ModelSerializer):
+    url = serializers.HyperlinkedIdentityField(view_name='library:books-detail', lookup_field='pk')
+
+
+    class Meta:
+        model = BookModel
+        fields = ['id', 'url', 'title', 'category', 'page_count', 'published_date']
 
 

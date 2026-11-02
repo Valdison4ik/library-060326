@@ -11,11 +11,14 @@ from django.urls import path, include
 
 
 from rest_framework.routers import DefaultRouter, SimpleRouter
-from apps.library.views.viewsets import BookViewSet, CategoryViewSet
+from apps.library.views.viewsets import BookViewSet, CategoryViewSet, GenreViewSet
+
+app_name = 'library'
 
 router = DefaultRouter()
-router.register(r'books', BookViewSet)
+router.register(r'books', BookViewSet, basename='books')
 router.register(r'categories', CategoryViewSet)
+router.register(r'genres', GenreViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),

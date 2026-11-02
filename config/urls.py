@@ -21,7 +21,8 @@ from django.conf import settings
 from django.conf.urls.static import static
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/v1/', include('apps.library.urls')),
+    path('api/v1/name-examples/', include('apps.library.urls.urls_name_examples')),
+    path('api/v1/germanlibrary/', include('apps.library.urls.urls_normal')),
 ]
 
 
