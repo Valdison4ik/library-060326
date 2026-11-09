@@ -16,13 +16,22 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from apps.library import views
 from django.conf import settings
 from django.conf.urls.static import static
+
+from rest_framework.authtoken.views import obtain_auth_token
+
+from apps.library.views.logout import LogoutView
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/v1/name-examples/', include('apps.library.urls.urls_name_examples')),
     path('api/v1/germanlibrary/', include('apps.library.urls.urls_normal')),
+
+    # path('api/v1/obtain-auth-token/', obtain_auth_token, name='obtain_auth_token'),
+    # path('api/v1/logout/', LogoutView.as_view(), name='logout'),
+
+    path('api/v1/users/', include('apps.users.urls')),
 ]
 
 
