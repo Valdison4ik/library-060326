@@ -1,8 +1,9 @@
 from rest_framework.exceptions import ValidationError
+from rest_framework.permissions import IsAdminUser, IsAuthenticated
 from rest_framework.utils import timezone
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from rest_framework.generics import get_object_or_404
+from rest_framework.generics import get_object_or_404, ListAPIView
 from rest_framework import status
 
 from apps.library.models import BorrowModel
@@ -40,3 +41,14 @@ class BorrowListCreateAPIView(APIView):
 
         serializer = BorrowSerializer(borrows, many=True)
         return Response(serializer.data, status=status.HTTP_200_OK)
+
+
+class MyBorrowsListAPIView(ListAPIView):
+    serializer_class = BorrowSerializer
+    permission_classes = [IsAuthenticated]
+
+    def get_queryset(self):
+        return (BorrowModel.objects.filter(member=self.request.user)
+                .select_related('book', 'library')
+                .order_by('due_date')
+                )

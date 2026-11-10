@@ -1,0 +1,2403 @@
+[
+{
+    "model": "library.bookmodel",
+    "pk": "0132ea5b-4e7e-416f-9e55-87c678b93957",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.752Z",
+        "updated_at": "2026-10-13T09:51:40.377Z",
+        "deleted_at": null,
+        "title": "A: костер заложить ответить.",
+        "published_date": "1980-07-13",
+        "category": 2,
+        "publisher": "62885a45-9400-4f33-ab2e-da53fdf142d4",
+        "summary": "Порядок демократия желание налево бетонный песня угодный смертельный. Уничтожение ведь порядок освободить развитый неожиданно. Прелесть выражение остановить появление.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2,
+            3,
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "0168c5fc-0f15-448e-80d9-9bd9d3abbb09",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.720Z",
+        "updated_at": "2026-10-13T08:04:45.900Z",
+        "deleted_at": null,
+        "title": "A: дурацкий пробовать мера.",
+        "published_date": "2020-08-29",
+        "category": 3,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "Бок командир конструкция протягивать инструкция необычный песенка неожиданно. Вряд крыса советовать проход скользить.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "03158fc9-1149-4889-abdd-5669cfc4c2e1",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.743Z",
+        "updated_at": "2026-10-13T08:04:45.638Z",
+        "deleted_at": null,
+        "title": "A: о цепочка трясти.",
+        "published_date": "1983-09-17",
+        "category": 2,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Болото каюта кузнец эффект карандаш крыса настать. Висеть манера порядок указанный. Пропасть вчера кидать пропадать новый приличный.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "047b81b0-fb45-4db9-b66d-280ba2524486",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.607Z",
+        "updated_at": "2026-10-13T08:04:45.641Z",
+        "deleted_at": null,
+        "title": "A: означать товар карман.",
+        "published_date": "1984-04-05",
+        "category": 5,
+        "publisher": "62885a45-9400-4f33-ab2e-da53fdf142d4",
+        "summary": "Постоянный приятель крутой командование зима заплакать. Танцевать развернуться важный холодно головной коллектив. Уничтожение головной июнь беспомощный.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "04dcee47-b659-408e-8aff-21ac8565d170",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.660Z",
+        "updated_at": "2026-10-13T08:04:45.600Z",
+        "deleted_at": null,
+        "title": "A: рабочий растеряться число.",
+        "published_date": "1979-07-18",
+        "category": 1,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "Четыре пространство деловой успокоиться падать господь ручей. Трубка ломать еврейский ныне сверкать лететь видимо полевой.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "06964ca1-6a89-4b8d-bed0-e9f0c14fc56d",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.009Z",
+        "deleted_at": null,
+        "title": "A: book 11",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 1",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "073f0388-822c-4423-96c0-ec18acefc45d",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.724Z",
+        "updated_at": "2026-10-13T08:04:45.755Z",
+        "deleted_at": null,
+        "title": "A: миф.",
+        "published_date": "2001-10-03",
+        "category": 2,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Гулять крыса умирать покидать роскошный счастье. Дошлый зима поймать граница результат экзамен изредка уронить.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "08225fd8-8233-4b35-9aaf-12c325991e88",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.691Z",
+        "updated_at": "2026-10-13T08:04:45.655Z",
+        "deleted_at": null,
+        "title": "A: через пробовать тюрьма.",
+        "published_date": "1985-01-15",
+        "category": 1,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Идея каюта тяжелый. Смелый палка фонарик.\r\nСверкать реклама торопливый сохранять. Неправда поймать идея куча.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "09331af1-4890-4a8f-9e7f-d675da37b210",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.701Z",
+        "updated_at": "2026-10-13T08:04:45.931Z",
+        "deleted_at": null,
+        "title": "A: тута витрина.",
+        "published_date": "2023-12-22",
+        "category": 3,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "О невозможно смеяться провинция народ изменение. Эпоха добиться идея штаб угодный.\nВскинуть спорт реклама пасть порядок. Экзамен роскошный хлеб миф.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "0cfb30f8-bd72-4939-b837-b7c72e69adc5",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.574Z",
+        "updated_at": "2026-10-13T08:04:45.798Z",
+        "deleted_at": null,
+        "title": "A: правление освобождение число.",
+        "published_date": "2010-01-04",
+        "category": 2,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Горький сходить рота идея торопливый результат недостаток важный. Порода триста слать упор. Поставить около вообще ломать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "0e81709f-79aa-4650-8fc5-b3002cbd93ad",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.707Z",
+        "updated_at": "2026-10-13T08:04:45.952Z",
+        "deleted_at": null,
+        "title": "A: правильный необычный.",
+        "published_date": "2025-11-10",
+        "category": 1,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Смеяться дьявол валюта помолчать ленинград штаб карман. Покидать угодный мгновение экзамен проход палата житель. Висеть исследование смертельный порода очутиться.",
+        "page_count": 330,
+        "cover": "books/covers/images.jpeg",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "11170eea-4674-41a8-ad2a-a86d902979a9",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.592Z",
+        "updated_at": "2026-10-13T08:04:45.821Z",
+        "deleted_at": null,
+        "title": "A: выражаться умолять.",
+        "published_date": "2013-08-20",
+        "category": 6,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Палата славный лететь лапа монета иной выраженный добиться.\nРешение порядок изба забирать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "14ecceeb-a2f6-405d-9844-5a814cbe0ddb",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.676Z",
+        "updated_at": "2026-10-13T08:04:45.658Z",
+        "deleted_at": null,
+        "title": "A: вперед.",
+        "published_date": "1985-04-16",
+        "category": 3,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Господь чувство инвалид социалистический художественный поздравлять сомнительный деловой. Одиннадцать куча заработать решение.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "14ee80f9-78da-435b-b9d0-b2eab74065a3",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.401Z",
+        "updated_at": "2026-10-13T08:04:45.970Z",
+        "deleted_at": null,
+        "title": "A: book 0",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 0",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "16a9ac97-8a1a-43ec-ae75-7c5c90597042",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.628Z",
+        "updated_at": "2026-10-13T08:04:45.743Z",
+        "deleted_at": null,
+        "title": "A: торопливый потом.",
+        "published_date": "2000-12-06",
+        "category": 5,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Пятеро подробность бабочка выражение. Горький миллиард витрина пламя.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "197dbc5f-c14e-4f6f-9369-0c5176727c9c",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.633Z",
+        "updated_at": "2026-10-13T08:04:45.925Z",
+        "deleted_at": null,
+        "title": "A: развернуться рота.",
+        "published_date": "2023-08-25",
+        "category": 4,
+        "publisher": "62885a45-9400-4f33-ab2e-da53fdf142d4",
+        "summary": "Приходить плясать цепочка ручей страсть. Идея кпсс недостаток степь услать отъезд. Невыносимый отъезд инвалид.\nНекоторый советовать а валюта второй способ. Девка миг потрясти проход поколение.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "1c705e02-f919-4731-ab78-0b3cf40abcfd",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.730Z",
+        "updated_at": "2026-10-13T08:04:45.945Z",
+        "deleted_at": null,
+        "title": "A: место анализ грустный.",
+        "published_date": "2025-07-15",
+        "category": 1,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Отметить кузнец казнь актриса посвятить строительство поздравлять. Пространство аж художественный потянуться близко. Низкий райком рота палата.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "1e90721e-f1b3-4e88-853e-90c317efa493",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.432Z",
+        "updated_at": "2026-10-13T08:04:45.986Z",
+        "deleted_at": null,
+        "title": "A: book 5",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 5",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "1f371b6b-098f-4ac9-8d13-84f69a9adc75",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.022Z",
+        "deleted_at": null,
+        "title": "A: book 44",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 4",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "1f528aa0-f84d-4412-b746-80da6753b87c",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.586Z",
+        "updated_at": "2026-10-13T08:04:45.911Z",
+        "deleted_at": null,
+        "title": "A: легко опасность единый.",
+        "published_date": "2022-02-13",
+        "category": 5,
+        "publisher": "0fb506ad-0876-4fe3-bc08-252fed969e6b",
+        "summary": "Зачем ярко ставить. Трясти порт ночь слишком выражение вскинуть. Изучить ученый кидать ярко устройство.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "204096b7-c7cc-44b6-bc89-ee2369c07953",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.741Z",
+        "updated_at": "2026-10-13T08:04:45.829Z",
+        "deleted_at": null,
+        "title": "A: труп рот.",
+        "published_date": "2013-11-13",
+        "category": 4,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Прежний выгнать бригада запеть. Поезд аллея вряд строительство единый перебивать. Услать отъезд полностью монета растеряться банда.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "2317f5e8-da33-47d1-adec-01396ce33488",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.622Z",
+        "updated_at": "2026-10-13T08:04:45.833Z",
+        "deleted_at": null,
+        "title": "A: банк умолять ленинград.",
+        "published_date": "2014-01-31",
+        "category": 5,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Головка умолять смеяться кузнец бригада. Прелесть дремать актриса валюта пища. Рота неожиданно миг премьера мгновение.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "249a1732-bae7-46bc-a280-51419cafebd6",
+    "fields": {
+        "created_at": "2026-10-13T07:20:58.829Z",
+        "updated_at": "2026-10-13T08:04:45.958Z",
+        "deleted_at": null,
+        "title": "A: python summary",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "2cb12271-2672-49fd-8c9b-d6ae9b5b0834",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.722Z",
+        "updated_at": "2026-10-13T08:04:45.934Z",
+        "deleted_at": null,
+        "title": "A: сынок совещание.",
+        "published_date": "2024-03-18",
+        "category": 4,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Магазин роскошный народ чем аллея пятеро похороны. Ленинград руководитель сомнительный пропаганда приятель выдержать голубчик.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "2d32e832-b113-4856-a6d4-a6e667c46bd4",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.581Z",
+        "updated_at": "2026-10-13T08:04:45.680Z",
+        "deleted_at": null,
+        "title": "A: мелочь мальчишка спорт.",
+        "published_date": "1991-09-25",
+        "category": 3,
+        "publisher": "62885a45-9400-4f33-ab2e-da53fdf142d4",
+        "summary": "Коричневый затянуться выражение полоска волк мелькнуть возникновение.\nГосподь руководитель задрать рай. Лиловый развитый скользить бегать правильный тусклый медицина.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "2deb3ded-e461-42f6-9ee9-c1b60a19b956",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.651Z",
+        "updated_at": "2026-10-13T08:04:45.784Z",
+        "deleted_at": null,
+        "title": "A: зачем аж коммунизм.",
+        "published_date": "2009-01-21",
+        "category": 2,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Пропаганда монета экзамен мимо подробность светило. Процесс прошептать написать интернет заявление танцевать тяжелый бочок.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "2fb4af9c-40f2-4612-bd68-3968e0d39725",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.680Z",
+        "updated_at": "2026-10-13T08:04:45.686Z",
+        "deleted_at": null,
+        "title": "A: основание дьявол.",
+        "published_date": "1991-12-21",
+        "category": 5,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Покинуть художественный плод мрачно чем способ печатать. Полевой изба рис степь манера уточнить. Дрогнуть боец армейский скрытый.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "3141369d-7c57-4055-87e0-3a972f31acc0",
+    "fields": {
+        "created_at": "2026-10-01T09:44:44.032Z",
+        "updated_at": "2026-10-13T08:04:45.888Z",
+        "deleted_at": null,
+        "title": "A: python adv",
+        "published_date": "2020-01-01",
+        "category": 1,
+        "publisher": null,
+        "summary": "Python Book",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "31795eb4-aca9-46f1-84dc-9c47f79108d4",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.445Z",
+        "updated_at": "2026-10-13T08:04:45.995Z",
+        "deleted_at": null,
+        "title": "A: book 8",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 8",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "349decfa-75ff-44e0-b42e-3236df6610ab",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.716Z",
+        "updated_at": "2026-10-13T08:04:45.928Z",
+        "deleted_at": null,
+        "title": "A: конструкция кольцо.",
+        "published_date": "2023-09-19",
+        "category": 6,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Армейский спасть мера покинуть заявление предоставить жестокий. Ботинок затянуться направо сынок райком жить табак адвокат.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "3789dcc7-74b5-413a-a3ec-77564b4cc660",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.615Z",
+        "updated_at": "2026-10-13T08:04:45.674Z",
+        "deleted_at": null,
+        "title": "A: поймать строительство что.",
+        "published_date": "1988-12-09",
+        "category": 3,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Гулять плясать заработать сопровождаться премьера выразить зачем. Руководитель интернет плясать указанный сопровождаться упорно дьявол.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "3a29ed0f-e7f9-421c-b410-0dde625e71d7",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.699Z",
+        "updated_at": "2026-10-13T08:04:45.734Z",
+        "deleted_at": null,
+        "title": "A: второй посидеть.",
+        "published_date": "2000-03-14",
+        "category": 2,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Дыхание уточнить рис возбуждение падаль рот гулять. Заявление коричневый мелькнуть виднеться сравнение коричневый. Валюта экзамен жидкий хотеть эпоха. Поговорить пища порода вытаскивать ботинок.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "3afc4cb7-e7c0-4781-b0f9-7870969ff3ff",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.669Z",
+        "updated_at": "2026-10-13T08:04:45.777Z",
+        "deleted_at": null,
+        "title": "A: четко адвокат.",
+        "published_date": "2006-09-23",
+        "category": 2,
+        "publisher": "62885a45-9400-4f33-ab2e-da53fdf142d4",
+        "summary": "Банда свежий бригада тута. Ученый юный пасть степь господь.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "3d829b6a-adbc-424f-aca8-f22e53c2a167",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.687Z",
+        "updated_at": "2026-10-13T08:04:45.746Z",
+        "deleted_at": null,
+        "title": "A: провал ответить прелесть.",
+        "published_date": "2001-01-10",
+        "category": 2,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Неожиданно правильный стакан коллектив степь человечек. Деньги цепочка правление столетие строительство изучить трясти. Вскакивать покидать о при палка. Очередной неожиданный носок написать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "421ac989-3131-4c75-8640-9c094f82fdcb",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.613Z",
+        "updated_at": "2026-10-13T08:04:45.661Z",
+        "deleted_at": null,
+        "title": "A: тута трясти.",
+        "published_date": "1985-06-03",
+        "category": 4,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Функция место счастье некоторый. Дорогой юный важный ночь.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "45e02a78-7d59-4ccc-bc8b-257834710636",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.658Z",
+        "updated_at": "2026-10-13T08:04:45.915Z",
+        "deleted_at": null,
+        "title": "A: мера упорно.",
+        "published_date": "2022-02-22",
+        "category": 1,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Неудобно палец девка потрясти один зачем выражаться смеяться. Покидать ответить командующий головной. Около смеяться дьявол.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "48f29018-0d33-4938-9a68-bc3a9a3ea862",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.598Z",
+        "updated_at": "2026-10-13T08:04:45.948Z",
+        "deleted_at": null,
+        "title": "A: цвет мгновение роскошный.",
+        "published_date": "2025-07-19",
+        "category": 1,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Естественный висеть печатать иной. Банк передо смеяться кидать мера штаб.\nОтъезд эпоха оборот предоставить. Равнодушный ремень чем наслаждение написать деловой спорт. Поколение наткнуться устройство.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "4d35d25e-06a3-4552-be71-7c7243d8b2ea",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.689Z",
+        "updated_at": "2026-10-13T08:04:45.668Z",
+        "deleted_at": null,
+        "title": "A: смертельный потрясти.",
+        "published_date": "1988-01-21",
+        "category": 1,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "Обида встать приятель.\nОпасность пробовать дальний палец роса господь. Рот другой применяться соответствие поговорить результат. Палец слишком полевой. Рис непривычный выраженный цвет порода банк.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "52eaaf09-847d-4126-84fe-f3df813d4d4b",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.611Z",
+        "updated_at": "2026-10-13T08:04:45.702Z",
+        "deleted_at": null,
+        "title": "A: ягода горький запеть.",
+        "published_date": "1995-03-17",
+        "category": 4,
+        "publisher": "0fb506ad-0876-4fe3-bc08-252fed969e6b",
+        "summary": "Мучительно пастух госпожа князь. Тусклый что непривычный мрачно намерение тюрьма. Медицина командующий соответствие провал избегать палка а.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "530f8680-1ffc-41cd-9542-e4f4e56763b9",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.042Z",
+        "deleted_at": null,
+        "title": "A: book 99",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 9",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "5485dae5-0110-4fc1-89a8-5e2350edea31",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.757Z",
+        "updated_at": "2026-10-13T08:04:45.794Z",
+        "deleted_at": null,
+        "title": "A: смелый стакан.",
+        "published_date": "2009-05-25",
+        "category": 3,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Заложить находить выбирать беспомощный протягивать. Недостаток каюта передо адвокат возбуждение слать медицина. Порог дремать трубка выкинуть трясти еврейский.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "5618ee94-4cf0-4fc1-b202-0ef72e55dfa5",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.605Z",
+        "updated_at": "2026-10-13T08:04:45.727Z",
+        "deleted_at": null,
+        "title": "A: мимо место.",
+        "published_date": "1999-05-24",
+        "category": 5,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Манера успокоиться шлем бочок казнь прелесть.\r\nУслать неудобно бригада поговорить порода близко набор. Прежде бок отдел освобождение механический растеряться.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "56db9ea7-e0c0-42ad-ae3e-ee38bf2bf385",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.576Z",
+        "updated_at": "2026-10-13T08:04:45.749Z",
+        "deleted_at": null,
+        "title": "A: передо неожиданно.",
+        "published_date": "2001-03-31",
+        "category": 2,
+        "publisher": "199e3fe0-db99-4b8d-86ac-527198174b4e",
+        "summary": "Сустав очко космос школьный сверкающий миллиард написать. Командир мера сходить умирать конструкция. Заявление природа коричневый очередной.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "56e4428e-5cd0-4259-ab3f-dbd60b643e87",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.703Z",
+        "updated_at": "2026-10-13T08:04:45.770Z",
+        "deleted_at": null,
+        "title": "A: оставить пропасть покидать школьный.",
+        "published_date": "2005-09-09",
+        "category": 4,
+        "publisher": "0fb506ad-0876-4fe3-bc08-252fed969e6b",
+        "summary": "Миг беспомощный рота солнце пространство собеседник. Бригада горький степь сравнение разуметься поезд.\nУмолять ягода способ иной четыре издали. Армейский район кольцо невозможно успокоиться.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "5cec2cee-ff3a-443f-9f1d-0c4ce2b57567",
+    "fields": {
+        "created_at": "2026-10-08T07:27:01.100Z",
+        "updated_at": "2026-10-13T08:04:45.955Z",
+        "deleted_at": null,
+        "title": "A: 213123",
+        "published_date": "2026-10-08",
+        "category": 1,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "",
+        "page_count": 330,
+        "cover": "books/covers/images_jdxffZe.jpeg",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "5f549d4b-8f26-45a0-a60a-985004b8765d",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.594Z",
+        "updated_at": "2026-10-13T08:04:45.766Z",
+        "deleted_at": null,
+        "title": "A: жидкий выкинуть.",
+        "published_date": "2005-06-23",
+        "category": 1,
+        "publisher": "62885a45-9400-4f33-ab2e-da53fdf142d4",
+        "summary": "Лапа июнь сутки тусклый выкинуть песня командующий. Угодный голубчик хозяйка самостоятельно заявление танцевать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "5f7d8ebd-0c43-4e7b-b15d-35d59efc9170",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.030Z",
+        "deleted_at": null,
+        "title": "A: book 66",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 6",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "68bdb2f5-4c6b-4c07-9a9b-c59f5ac74105",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.617Z",
+        "updated_at": "2026-10-13T08:04:45.904Z",
+        "deleted_at": null,
+        "title": "A: подробность костер.",
+        "published_date": "2021-02-27",
+        "category": 3,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "Плод ночь бетонный прежде рис. Встать выражение желание поздравлять. Невыносимый а ведь миф уронить.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "6b4e9f65-f47d-4334-8932-b662b8e27799",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.034Z",
+        "deleted_at": null,
+        "title": "A: book 77",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 7",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "6b69bb38-4ab0-4c3c-b687-500b30bcec51",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.768Z",
+        "updated_at": "2026-10-13T08:04:45.838Z",
+        "deleted_at": null,
+        "title": "A: каюта миллиард.",
+        "published_date": "2014-05-16",
+        "category": 3,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Изображать житель палата. Хозяйка отдел юный металл сынок поставить металл. Монета выражаться девка соответствие сутки.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "6d8f0c6f-03be-47bd-9c55-37d9d005296f",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.765Z",
+        "updated_at": "2026-10-13T08:04:45.594Z",
+        "deleted_at": null,
+        "title": "A: витрина дурацкий.",
+        "published_date": "1979-03-13",
+        "category": 2,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Точно поезд задрать металл прелесть. Плясать падать команда умолять. Изменение рассуждение ручей. Отъезд при роскошный господь угол освободить точно.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "6f29bf99-b3ad-45d5-8c7c-aea9adab7c1f",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.642Z",
+        "updated_at": "2026-10-13T08:04:45.877Z",
+        "deleted_at": null,
+        "title": "A: манера бок.",
+        "published_date": "2019-05-20",
+        "category": 4,
+        "publisher": "0fb506ad-0876-4fe3-bc08-252fed969e6b",
+        "summary": "Второй промолчать низкий гулять. При висеть поколение подробность редактор провал. Солнце висеть бетонный голубчик жить ремень.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "6f93cde4-d1ab-4554-8c70-c6fce72ed20e",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.653Z",
+        "updated_at": "2026-10-13T08:04:45.627Z",
+        "deleted_at": null,
+        "title": "A: порог.",
+        "published_date": "1982-05-31",
+        "category": 1,
+        "publisher": "199e3fe0-db99-4b8d-86ac-527198174b4e",
+        "summary": "Мера мера расстегнуть издали. Магазин сынок заработать провал.\nЧетко вскинуть скрытый какой столетие. Основание вздрагивать демократия вытаскивать поезд юный.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "7142777f-14f9-4e4c-b8f3-040772fe77ec",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.733Z",
+        "updated_at": "2026-10-13T08:04:45.855Z",
+        "deleted_at": null,
+        "title": "A: разуметься вчера миф.",
+        "published_date": "2017-10-16",
+        "category": 2,
+        "publisher": "62885a45-9400-4f33-ab2e-da53fdf142d4",
+        "summary": "Четыре уничтожение ложиться видимо. Неожиданный стакан труп печатать дрогнуть ночь отдел. Прощение заявление способ способ полоска.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "74d7e8aa-4200-4528-920c-7d7dcb538847",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.637Z",
+        "updated_at": "2026-10-13T08:04:45.671Z",
+        "deleted_at": null,
+        "title": "A: ведь правление.",
+        "published_date": "1988-08-28",
+        "category": 3,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Правый подземный дыхание лететь металл инвалид. Экзамен песенка покинуть зеленый стакан. Неправда шлем доставать основание бровь решение.\nПорода зато багровый теория.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "76443219-a963-4abd-8b94-33ba4b52d117",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.675Z",
+        "updated_at": "2026-10-13T08:04:45.892Z",
+        "deleted_at": null,
+        "title": "A: мелькнуть командующий.",
+        "published_date": "2020-01-06",
+        "category": 6,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Указанный домашний космос тюрьма. Изображать привлекать степь. Поздравлять белье вывести природа армейский крыса инструкция.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "79e71505-857a-4cdd-9f51-128391261479",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.603Z",
+        "updated_at": "2026-10-13T08:04:45.644Z",
+        "deleted_at": null,
+        "title": "A: провинция труп естественный.",
+        "published_date": "1984-05-03",
+        "category": 1,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Коричневый рота настать цвет близко дошлый выкинуть набор. Войти возможно поздравлять основание социалистический лиловый приятель ленинград. Основание миф демократия функция монета.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "80697c98-b3ac-4497-b237-e085e420c65d",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.425Z",
+        "updated_at": "2026-10-13T08:04:45.980Z",
+        "deleted_at": null,
+        "title": "A: book 3",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 3",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "80d774f8-08ca-4e23-b9e0-3708bb34b80f",
+    "fields": {
+        "created_at": "2026-10-13T07:26:07.591Z",
+        "updated_at": "2026-10-13T08:04:45.961Z",
+        "deleted_at": null,
+        "title": "A: pytest",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Testing",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "844e8a07-3484-494a-961c-99b2f20eb762",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.583Z",
+        "updated_at": "2026-10-13T08:04:45.787Z",
+        "deleted_at": null,
+        "title": "A: ныне командование.",
+        "published_date": "2009-04-25",
+        "category": 1,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Валюта поезд порядок место. Пропасть новый юный полюбить умолять радость бочок. Промолчать металл болото очередной идея.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "85ae84f2-2e59-417c-bae8-1672160d261a",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.735Z",
+        "updated_at": "2026-10-13T08:04:45.597Z",
+        "deleted_at": null,
+        "title": "A: вытаскивать очередной.",
+        "published_date": "1979-03-30",
+        "category": 6,
+        "publisher": "62885a45-9400-4f33-ab2e-da53fdf142d4",
+        "summary": "Успокоиться редактор монета снимать перебивать единый счастье. Очередной домашний сопровождаться ягода кпсс свежий вскинуть выкинуть. Инструкция самостоятельно заведение изучить промолчать при.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "866f4c81-d822-47fb-b035-ee16ccb6c8e0",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.619Z",
+        "updated_at": "2026-10-13T08:04:45.790Z",
+        "deleted_at": null,
+        "title": "A: избегать нажать.",
+        "published_date": "2009-05-09",
+        "category": 3,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Палка хозяйка парень присесть беспомощный степь. Возмутиться школьный костер расстройство место. Поставить дыхание цепочка боец.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "88d0b8bc-5edd-478d-b862-5ee718bab696",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.754Z",
+        "updated_at": "2026-10-13T08:04:45.842Z",
+        "deleted_at": null,
+        "title": "A: сынок успокоиться.",
+        "published_date": "2015-01-02",
+        "category": 2,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Редактор багровый войти. Песня возбуждение инфекция умолять точно тяжелый мягкий.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "8b851553-d869-4f47-a069-5e4a9122c2c1",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.596Z",
+        "updated_at": "2026-10-13T08:04:45.708Z",
+        "deleted_at": null,
+        "title": "A: возмутиться обида наступать о.",
+        "published_date": "1996-08-27",
+        "category": 5,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "Домашний бровь расстройство тута спичка. Секунда вздрогнуть наслаждение неправда упор сустав аллея выдержать. Разводить серьезный перебивать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "8c497b57-737d-490e-b99b-04840d8b4f35",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.684Z",
+        "updated_at": "2026-10-28T08:50:29.687Z",
+        "deleted_at": null,
+        "title": "A: легко второй. 1111",
+        "published_date": "1978-09-14",
+        "category": 6,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Тусклый отметить тусклый. Спичка невозможно материя выбирать снимать рабочий. Цвет выраженный рота столетие изредка заявление.",
+        "page_count": 335,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "930fd8b5-d760-402e-959b-23a8f13f73fc",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.767Z",
+        "updated_at": "2026-10-13T08:04:45.693Z",
+        "deleted_at": null,
+        "title": "A: освободить уточнить.",
+        "published_date": "1992-11-10",
+        "category": 5,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Блин разуметься растеряться миг академик направо. Сынок некоторый лететь неудобно. Засунуть ребятишки сравнение блин.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "9397dc78-24ee-4788-af5f-01f54f9084fa",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.436Z",
+        "updated_at": "2026-10-13T08:04:45.989Z",
+        "deleted_at": null,
+        "title": "A: book 6",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 6",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "940840d2-0fa5-4d2e-be2f-a23457210d27",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.631Z",
+        "updated_at": "2026-10-13T08:04:45.896Z",
+        "deleted_at": null,
+        "title": "A: мелочь гулять.",
+        "published_date": "2020-02-27",
+        "category": 6,
+        "publisher": "0fb506ad-0876-4fe3-bc08-252fed969e6b",
+        "summary": "Блин отдел рота ход коммунизм выражение вскакивать иной. Полоска цвет народ нервно. Подробность ночь бок грудь прошептать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "94709dcc-f95a-4a75-ac0b-637867ca010c",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.624Z",
+        "updated_at": "2026-10-13T08:04:45.918Z",
+        "deleted_at": null,
+        "title": "A: единый дьявол.",
+        "published_date": "2022-09-26",
+        "category": 3,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Посвятить около жить непривычный господь.\nДоставать жидкий способ коробка запеть хозяйка очередной. Неправда инструкция кожа второй рассуждение отдел.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "966c7ed8-3f1e-49a8-9e15-8c1f380a1446",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.578Z",
+        "updated_at": "2026-10-13T08:04:45.714Z",
+        "deleted_at": null,
+        "title": "A: вздрогнуть академик даль выраженный.",
+        "published_date": "1997-06-02",
+        "category": 5,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Бетонный вздрогнуть светило прежний затянуться легко успокоиться. Магазин вскинуть природа угроза да. Помимо неправда поставить вздрогнуть направо вздрагивать чувство новый.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "96883837-c838-425d-82b3-e38d3e446ccd",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.759Z",
+        "updated_at": "2026-10-13T08:04:45.813Z",
+        "deleted_at": null,
+        "title": "A: дьявол тяжелый.",
+        "published_date": "2013-01-14",
+        "category": 4,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Ручей да термин прежний. Висеть грудь поговорить уничтожение четыре песенка. Армейский еврейский металл. Левый ботинок руководитель ленинград изба оборот помимо слишком.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "97a3a145-4a1f-4922-939e-21640e64dd9a",
+    "fields": {
+        "created_at": "2026-10-28T08:35:03.313Z",
+        "updated_at": "2026-10-28T10:13:03.970Z",
+        "deleted_at": null,
+        "title": "111111",
+        "published_date": "2027-01-01",
+        "category": 1,
+        "publisher": null,
+        "summary": "kjhjkhjk kjh kjhjkhjkhk",
+        "page_count": 1111,
+        "cover": "",
+        "genres": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "9c36d466-7eba-4e73-87fa-ebaae3aded83",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.737Z",
+        "updated_at": "2026-10-13T08:04:45.752Z",
+        "deleted_at": null,
+        "title": "A: жить проход очутиться команда.",
+        "published_date": "2001-09-25",
+        "category": 3,
+        "publisher": "0fb506ad-0876-4fe3-bc08-252fed969e6b",
+        "summary": "Полевой налево еврейский разводить. Заложить означать механический приличный горький школьный художественный бригада. Что кпсс невозможно очередной.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "9d75e182-a41c-4432-9a4f-7ee2936657a3",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.440Z",
+        "updated_at": "2026-10-13T08:04:45.992Z",
+        "deleted_at": null,
+        "title": "A: book 7",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 7",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "9eddbfb5-766a-45e6-b0b5-7d6a597bf1fb",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.739Z",
+        "updated_at": "2026-10-13T08:04:45.617Z",
+        "deleted_at": null,
+        "title": "A: смелый руководитель скрытый.",
+        "published_date": "1981-06-14",
+        "category": 4,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Выражение невозможно бок левый самостоятельно степь деньги. Юный разуметься лететь. Умолять спалить угол.\nСлать снимать изба встать триста. Правый человечек заявление роса пропасть.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "a44f18b5-8320-4651-b1be-f51707bc393f",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.745Z",
+        "updated_at": "2026-10-13T08:04:45.941Z",
+        "deleted_at": null,
+        "title": "A: хлеб карандаш пол.",
+        "published_date": "2024-10-14",
+        "category": 5,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "Вздрагивать неудобно ложиться даль. Тысяча природа дурацкий правление назначить написать. Художественный передо кожа неудобно.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "a4f52fb2-c094-4216-a0be-b4065ea3ea49",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.671Z",
+        "updated_at": "2026-10-13T08:04:45.682Z",
+        "deleted_at": null,
+        "title": "A: направо протягивать правильный.",
+        "published_date": "1991-11-16",
+        "category": 6,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Скрытый жестокий аллея выразить способ поставить выраженный. Художественный обида зеленый социалистический пропадать сохранять.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "aee7ddd2-d373-41a4-bef7-ba329ff3370a",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.588Z",
+        "updated_at": "2026-10-13T08:04:45.737Z",
+        "deleted_at": null,
+        "title": "A: дальний оборот совещание.",
+        "published_date": "2000-03-25",
+        "category": 1,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Командование ягода миллиард выраженный салон пересечь хотеть. Добиться тесно налево отъезд. Сходить разводить сверкать один.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "af6c83d8-5820-4ec9-926f-f14c8a5888d3",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.645Z",
+        "updated_at": "2026-10-13T08:04:45.806Z",
+        "deleted_at": null,
+        "title": "A: правление порядок.",
+        "published_date": "2011-05-21",
+        "category": 1,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Деловой сустав мелькнуть монета.\nСлавный монета правление крутой шлем о. Зато желание потом угол триста. Печатать бегать счастье слишком витрина выражение прежде.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "b0a7e146-6095-449f-9d2c-571805a5ea2e",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.709Z",
+        "updated_at": "2026-10-13T08:04:45.711Z",
+        "deleted_at": null,
+        "title": "A: задержать.",
+        "published_date": "1997-01-17",
+        "category": 3,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "За низкий что правление приличный намерение написать. Мера набор пастух ведь ленинград парень банда. Ответить мучительно радость пробовать. Природа угол услать серьезный.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "b434b137-c53e-4025-ad00-760b4a36ac6b",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.749Z",
+        "updated_at": "2026-10-13T08:04:45.664Z",
+        "deleted_at": null,
+        "title": "A: дошлый наткнуться увеличиваться.",
+        "published_date": "1987-09-27",
+        "category": 6,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Шлем академик кольцо бригада карандаш. Обида зима невыносимый пространство промолчать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "bf058951-de44-4720-b4ec-b3dc8fe222b8",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.026Z",
+        "deleted_at": null,
+        "title": "A: book 55",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 5",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "c2b6a4e3-0bd7-4ddd-a2eb-764f805a900d",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.601Z",
+        "updated_at": "2026-10-13T08:04:45.868Z",
+        "deleted_at": null,
+        "title": "A: отражение ботинок понятный.",
+        "published_date": "2018-03-01",
+        "category": 2,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Мгновение пасть возможно засунуть медицина необычный. О зачем потянуться пропасть. Тяжелый интеллектуальный построить ученый неожиданно дрогнуть.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "c4a98fce-84dc-440a-ab32-a663a8ef0bd5",
+    "fields": {
+        "created_at": "2026-10-13T07:41:26.141Z",
+        "updated_at": "2026-10-13T08:04:45.968Z",
+        "deleted_at": null,
+        "title": "A: django 6.1",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "DRF",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "c4b81602-491a-4170-a398-034b9e928f92",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.609Z",
+        "updated_at": "2026-10-13T08:04:45.677Z",
+        "deleted_at": null,
+        "title": "A: иной коллектив умирать.",
+        "published_date": "1989-07-03",
+        "category": 5,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Домашний военный мимо пересечь сравнение покинуть банк. Изба возможно левый рис дрогнуть.\nЛететь отметить освобождение. Блин нажать возмутиться спорт оборот песенка.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "c5be3922-f00e-4515-8f4d-60ac741923aa",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.726Z",
+        "updated_at": "2026-10-13T08:04:45.846Z",
+        "deleted_at": null,
+        "title": "A: возникновение находить.",
+        "published_date": "2015-09-18",
+        "category": 4,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Мелькнуть князь спорт проход добиться. Солнце блин некоторый прелесть июнь о услать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "c69d4fff-3a15-40ab-a83f-513beeb67c7d",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.750Z",
+        "updated_at": "2026-10-13T08:04:45.774Z",
+        "deleted_at": null,
+        "title": "A: термин.",
+        "published_date": "2006-06-27",
+        "category": 6,
+        "publisher": "0fb506ad-0876-4fe3-bc08-252fed969e6b",
+        "summary": "Избегать предоставить функция природа число. Уничтожение грустный выразить. Металл металл интеллектуальный монета возмутиться бегать выкинуть.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "cace451f-1656-4d4f-a982-ba688bd690ba",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.566Z",
+        "updated_at": "2026-10-13T08:04:45.634Z",
+        "deleted_at": null,
+        "title": "A: командующий ведь дыхание.",
+        "published_date": "1983-08-19",
+        "category": 4,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Лететь фонарик скрытый заработать слишком. Народ ответить идея вывести новый чувство армейский.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "cc6307ad-ce23-489e-a77f-c20c0083ed1a",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.639Z",
+        "updated_at": "2026-10-13T08:04:45.651Z",
+        "deleted_at": null,
+        "title": "A: порт темнеть мелькнуть.",
+        "published_date": "1984-07-08",
+        "category": 5,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Картинка зарплата монета через. Что разуметься возбуждение да наслаждение плавно.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "cd0d30cf-be38-490d-843d-d795cdcc80e2",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.640Z",
+        "updated_at": "2026-10-13T08:04:45.699Z",
+        "deleted_at": null,
+        "title": "A: конференция возмутиться уничтожение.",
+        "published_date": "1995-02-08",
+        "category": 3,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Монета за следовательно мелочь нож холодно. Пропасть кузнец собеседник способ поколение.\nАж легко монета военный прежде запустить. Дьявол пространство конструкция засунуть. Дорогой смелый выраженный.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "cfd43fa8-f086-4438-8b92-cabae6b4d024",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.697Z",
+        "updated_at": "2026-10-13T08:04:45.762Z",
+        "deleted_at": null,
+        "title": "A: отражение пастух.",
+        "published_date": "2004-05-28",
+        "category": 5,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Иной решение коллектив карман. Непривычный падать потянуться угол задрать витрина.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "d155f561-ea02-41c7-8721-cc251bcbc333",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.421Z",
+        "updated_at": "2026-10-13T08:04:45.976Z",
+        "deleted_at": null,
+        "title": "A: book 2",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 2",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "d2172600-a32f-4393-bfe0-6a753e34f6c5",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.649Z",
+        "updated_at": "2026-10-13T08:04:45.721Z",
+        "deleted_at": null,
+        "title": "A: госпожа.",
+        "published_date": "1997-11-20",
+        "category": 6,
+        "publisher": "199e3fe0-db99-4b8d-86ac-527198174b4e",
+        "summary": "Уничтожение сверкать провинция боец. Потом миллиард какой изредка присесть изба дыхание зарплата. Отметить конференция видимо жидкий растеряться второй.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "d6702ddc-16dd-4e71-9adf-b2c82bf76d66",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.714Z",
+        "updated_at": "2026-10-13T08:04:45.908Z",
+        "deleted_at": null,
+        "title": "A: протягивать каюта вскакивать.",
+        "published_date": "2021-11-20",
+        "category": 2,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Коричневый страсть горький анализ ярко командующий. Возбуждение столетие естественный ботинок цвет сынок бегать. Приятель миллиард левый уронить парень запретить кожа.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "d6a07e58-e551-4650-8591-0468eb75961b",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.728Z",
+        "updated_at": "2026-10-13T08:04:45.614Z",
+        "deleted_at": null,
+        "title": "A: товар хлеб миг.",
+        "published_date": "1981-05-17",
+        "category": 4,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Сомнительный место шлем следовательно даль. Добиться беспомощный за угол горький.\nПотом приятель тусклый армейский шлем через написать. Монета деловой доставать тысяча костер.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "d886d420-40a4-41a2-ab35-08dde67644e4",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.655Z",
+        "updated_at": "2026-10-13T08:04:45.696Z",
+        "deleted_at": null,
+        "title": "A: выгнать витрина.",
+        "published_date": "1994-07-28",
+        "category": 1,
+        "publisher": "199e3fe0-db99-4b8d-86ac-527198174b4e",
+        "summary": "Выгнать домашний протягивать.\nЭффект провинция металл тревога а торговля. Табак аллея проход. Манера выкинуть успокоиться манера наступать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "d89ebcc7-9b6b-4c78-a178-f78188726fdc",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.006Z",
+        "deleted_at": null,
+        "title": "A: book 00",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 0",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "dd8482b3-1b90-45cf-b83e-8b18ea62331a",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.763Z",
+        "updated_at": "2026-10-13T08:04:45.607Z",
+        "deleted_at": null,
+        "title": "A: прошептать болото.",
+        "published_date": "1980-11-16",
+        "category": 1,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Потом товар близко способ построить приятель. Близко одиннадцать природа издали запустить да. Сохранять ложиться труп монета инфекция поставить ход.\nШтаб поезд что настать рота мучительно аж.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "de851b75-118b-47e8-b3e9-5c6d34e1d4eb",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.014Z",
+        "deleted_at": null,
+        "title": "A: book 22",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 2",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "e22a3010-c19c-4d6f-b5e4-9db7a0b44e28",
+    "fields": {
+        "created_at": "2026-10-13T07:27:42.489Z",
+        "updated_at": "2026-10-13T08:04:45.964Z",
+        "deleted_at": null,
+        "title": "A: django",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "DRF",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "e5812866-4e3a-4cd2-b8fe-57839272b0e4",
+    "fields": {
+        "created_at": "2026-10-01T09:42:40.023Z",
+        "updated_at": "2026-10-13T08:04:45.883Z",
+        "deleted_at": null,
+        "title": "A: python",
+        "published_date": "2020-01-01",
+        "category": 1,
+        "publisher": null,
+        "summary": "Python Book",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "e5c560b8-0a77-43b2-a593-5b7eae31ea95",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.599Z",
+        "updated_at": "2026-10-13T08:04:45.817Z",
+        "deleted_at": null,
+        "title": "A: тяжелый приходить демократия.",
+        "published_date": "2013-05-18",
+        "category": 4,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Исследование опасность господь холодно госпожа порядок материя следовательно. Запустить естественный мотоцикл рабочий. Настать проход банк равнодушный.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "e981963c-9c2d-414d-bf57-3bbc7e5bb3d7",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.663Z",
+        "updated_at": "2026-10-13T08:04:45.610Z",
+        "deleted_at": null,
+        "title": "A: радость сохранять.",
+        "published_date": "1980-12-02",
+        "category": 6,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Полюбить плод господь очко казнь процесс очередной. Направо костер рис монета тысяча.\r\nЛегко витрина жестокий важный неправда. Мотоцикл банк другой вывести горький мгновение.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "ea24b528-908f-4c7a-9c0c-d73eefc10dd3",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.018Z",
+        "deleted_at": null,
+        "title": "A: book 33",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 3",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "ea666b25-d7d0-4d5b-88e7-0ff2ba15ec6d",
+    "fields": {
+        "created_at": "2026-10-13T07:51:21.309Z",
+        "updated_at": "2026-10-13T08:04:46.038Z",
+        "deleted_at": null,
+        "title": "A: book 88",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 8",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "eb124b4c-bb63-415e-8bba-93461b04587e",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.644Z",
+        "updated_at": "2026-10-13T08:04:45.873Z",
+        "deleted_at": null,
+        "title": "A: сынок.",
+        "published_date": "2018-04-11",
+        "category": 4,
+        "publisher": "f22c244c-64fd-4089-9a74-7d9f576af8fa",
+        "summary": "Ботинок эффект ход обида дрогнуть. Привлекать возбуждение мера появление.\nШлем гулять штаб. Протягивать радость издали рассуждение полоска художественный нервно.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "ec070876-5dd6-4c64-8808-226cc91ae841",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.693Z",
+        "updated_at": "2026-10-13T08:04:45.809Z",
+        "deleted_at": null,
+        "title": "A: тысяча отдел легко.",
+        "published_date": "2012-02-07",
+        "category": 2,
+        "publisher": "62885a45-9400-4f33-ab2e-da53fdf142d4",
+        "summary": "Важный освобождение князь тюрьма жестокий каюта освободить. Спасть левый помимо казнь беспомощный угодный счастье плясать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "ede68b79-f1af-4ab3-835b-0c80e8a51dff",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.682Z",
+        "updated_at": "2026-10-13T08:04:45.717Z",
+        "deleted_at": null,
+        "title": "A: приличный трясти.",
+        "published_date": "1997-07-07",
+        "category": 1,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Плясать дурацкий тысяча народ хотеть. Строительство танцевать анализ.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "eea2cb01-de0f-4394-82c7-2201c36b1712",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.590Z",
+        "updated_at": "2026-10-13T08:04:45.921Z",
+        "deleted_at": null,
+        "title": "A: темнеть падать.",
+        "published_date": "2023-02-07",
+        "category": 1,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "Крутой сомнительный выкинуть. Команда доставать банк увеличиваться. Роскошный князь скользить ягода промолчать порода провал.\nСолнце человечек миллиард счастье.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "ef0aafa7-fd8d-4387-9216-e1f9e278abee",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.678Z",
+        "updated_at": "2026-10-13T08:04:45.740Z",
+        "deleted_at": null,
+        "title": "A: приличный изображать деловой.",
+        "published_date": "2000-07-05",
+        "category": 4,
+        "publisher": "0fb506ad-0876-4fe3-bc08-252fed969e6b",
+        "summary": "Близко господь висеть четко выразить спасть материя. Салон ленинград другой мягкий точно передо.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "ef38bf89-3ada-4375-95b4-a5427480fc48",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.761Z",
+        "updated_at": "2026-10-13T08:04:45.863Z",
+        "deleted_at": null,
+        "title": "A: дьявол зеленый новый.",
+        "published_date": "2018-01-21",
+        "category": 2,
+        "publisher": "7f7fe577-fe4f-4645-90a8-684b9d05d46f",
+        "summary": "Спичка дьявол степь анализ поздравлять. Правильный свежий горький степь сбросить свежий.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "f1fe6269-af4e-4323-9bb5-7134d90bb089",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.417Z",
+        "updated_at": "2026-10-13T08:04:45.973Z",
+        "deleted_at": null,
+        "title": "A: book 1",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 1",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "f2868e43-38c2-4d90-8572-d28c51db47ee",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.635Z",
+        "updated_at": "2026-10-13T08:04:45.621Z",
+        "deleted_at": null,
+        "title": "A: тюрьма остановить сынок.",
+        "published_date": "1981-12-28",
+        "category": 4,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Услать школьный факультет пол. Смертельный набор зима функция войти. Поздравлять интеллектуальный миллиард невозможно. Хозяйка место интернет очередной грудь ленинград район.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "f3126cc2-3ccf-4ddf-9fa4-535a77820b43",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.705Z",
+        "updated_at": "2026-10-13T08:04:45.690Z",
+        "deleted_at": null,
+        "title": "A: господь хлеб.",
+        "published_date": "1992-03-07",
+        "category": 3,
+        "publisher": "0fb506ad-0876-4fe3-bc08-252fed969e6b",
+        "summary": "Мотоцикл бак ребятишки затянуться. Мимо вздрагивать да упор изба.\nПлод о темнеть. Жидкий солнце дурацкий ручей факультет кузнец. Решение манера остановить.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "f36700af-e09f-4eb3-807b-95e3113faf71",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.625Z",
+        "updated_at": "2026-10-13T08:04:45.780Z",
+        "deleted_at": null,
+        "title": "A: пропаганда дурацкий порода.",
+        "published_date": "2008-09-16",
+        "category": 3,
+        "publisher": "199e3fe0-db99-4b8d-86ac-527198174b4e",
+        "summary": "Неудобно низкий посвятить виднеться дорогой выдержать.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "f4bf9fb2-e511-4a46-ab18-a53f2137a320",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.747Z",
+        "updated_at": "2026-10-13T08:04:45.851Z",
+        "deleted_at": null,
+        "title": "A: демократия боец поставить.",
+        "published_date": "2016-06-01",
+        "category": 3,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Прелесть сынок плавно анализ ручей. Настать возможно близко. Валюта заработать металл лапа указанный. Гулять похороны выражаться висеть картинка.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "f52c3904-939d-4b6e-9ff3-16b1351dd99d",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.448Z",
+        "updated_at": "2026-10-13T08:04:46.003Z",
+        "deleted_at": null,
+        "title": "A: book 9",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 9",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "f6694d97-cf14-43b6-aaa4-9386a9aa65f5",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.694Z",
+        "updated_at": "2026-10-13T08:04:45.937Z",
+        "deleted_at": null,
+        "title": "A: художественный применяться расстегнуть.",
+        "published_date": "2024-05-15",
+        "category": 4,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "Зеленый конструкция да пятеро трясти передо.\nКольцо естественный изба порядок цвет коллектив. Солнце цепочка предоставить полевой сутки самостоятельно. Означать жестокий кпсс скользить запретить.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            3
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "f99a2a15-7797-4c1d-9078-d1cc3a9fe304",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.756Z",
+        "updated_at": "2026-10-13T08:04:45.648Z",
+        "deleted_at": null,
+        "title": "A: миф господь промолчать.",
+        "published_date": "1984-05-03",
+        "category": 1,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Пропаганда результат засунуть ручей умирать. Салон помолчать монета наступать солнце разводить очутиться.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "fa86cdad-fc04-4745-80ef-8c96c07d6cbe",
+    "fields": {
+        "created_at": "2026-10-19T08:18:39.329Z",
+        "updated_at": "2026-10-19T08:18:39.329Z",
+        "deleted_at": null,
+        "title": "ТЕСТ 19.10.2026",
+        "published_date": "1978-09-14",
+        "category": 6,
+        "publisher": "9fa57c97-1b06-4022-baf4-10bcda377314",
+        "summary": "Тусклый отметить тусклый. Спичка невозможно материя выбирать снимать рабочий. Цвет выраженный рота столетие изредка заявление.",
+        "page_count": 335,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "fb633703-d7d7-4a9f-b601-b42cf2b94c61",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.647Z",
+        "updated_at": "2026-10-13T08:04:45.759Z",
+        "deleted_at": null,
+        "title": "A: мелькнуть отъезд школьный.",
+        "published_date": "2002-04-13",
+        "category": 2,
+        "publisher": "199e3fe0-db99-4b8d-86ac-527198174b4e",
+        "summary": "Роскошный темнеть поезд шлем заплакать. Иной командующий мелькнуть.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "fbfa76dc-1a9d-4df1-8f19-1c18979a9448",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.711Z",
+        "updated_at": "2026-10-13T08:04:45.859Z",
+        "deleted_at": null,
+        "title": "A: ответить приятель.",
+        "published_date": "2017-12-13",
+        "category": 1,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Конструкция прощение заработать расстегнуть трясти вперед подробность трубка. О конструкция обида подземный бак выбирать посвятить. Палка экзамен аллея оборот аллея левый.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "fc55c60a-b330-449f-a946-1b54887037f6",
+    "fields": {
+        "created_at": "2026-10-13T07:50:35.429Z",
+        "updated_at": "2026-10-13T08:04:45.983Z",
+        "deleted_at": null,
+        "title": "A: book 4",
+        "published_date": "2026-10-13",
+        "category": null,
+        "publisher": null,
+        "summary": "Description of Book 4",
+        "page_count": 330,
+        "cover": "",
+        "genres": []
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "fd63e5b1-fe78-43dd-983d-e0ced4f5ba5b",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.666Z",
+        "updated_at": "2026-10-13T08:04:45.802Z",
+        "deleted_at": null,
+        "title": "A: подробность важный.",
+        "published_date": "2010-12-05",
+        "category": 1,
+        "publisher": "bd70b860-5b80-426c-84d7-ea7406605eff",
+        "summary": "Витрина зима четыре сынок. Ручей белье добиться социалистический район.\nКонференция потянуться холодно монета освобождение один князь.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            1
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "fdcec2f0-3826-450d-a496-9cfd11a45df3",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.629Z",
+        "updated_at": "2026-10-13T08:04:45.630Z",
+        "deleted_at": null,
+        "title": "A: теория близко.",
+        "published_date": "1982-10-22",
+        "category": 6,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Вообще заявление плод кпсс ложиться.\nДьявол заявление хозяйка выраженный. Правление демократия ложиться.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "fed342d9-7809-4e83-a2ff-3110f1af6b04",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.667Z",
+        "updated_at": "2026-10-13T08:04:45.730Z",
+        "deleted_at": null,
+        "title": "A: реклама кпсс еврейский.",
+        "published_date": "1999-08-11",
+        "category": 6,
+        "publisher": "199e3fe0-db99-4b8d-86ac-527198174b4e",
+        "summary": "Какой стакан салон господь. Возбуждение цепочка правильный ложиться поставить. Четыре князь мгновение присесть труп тута вздрогнуть.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "ff4ad14c-da3b-424f-b9a2-45e8345cf76a",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.673Z",
+        "updated_at": "2026-10-13T08:04:45.825Z",
+        "deleted_at": null,
+        "title": "A: миллиард дружно.",
+        "published_date": "2013-10-24",
+        "category": 2,
+        "publisher": "ff4fd86b-2d6c-47bb-aa2d-37eebf8948b9",
+        "summary": "Командование валюта палец новый миф рабочий. Даль плавно стакан налоговый означать коробка.\r\nМатерия район пастух лапа. Хотеть около протягивать падаль.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "ffd34aed-632e-4ac6-a1ff-b47f79b122d4",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.620Z",
+        "updated_at": "2026-10-13T08:04:45.724Z",
+        "deleted_at": null,
+        "title": "A: научить постоянный.",
+        "published_date": "1999-04-06",
+        "category": 4,
+        "publisher": "c5ecd4f7-cd90-486f-ac14-e9bbad2b3e2e",
+        "summary": "Ярко задрать художественный коммунизм неправда. Спорт заведение демократия приятель мотоцикл остановить белье танцевать. Граница горький неправда.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            2
+        ]
+    }
+},
+{
+    "model": "library.bookmodel",
+    "pk": "fff0e584-dc38-4957-ba64-eb83b58fe329",
+    "fields": {
+        "created_at": "2026-09-30T11:17:40.718Z",
+        "updated_at": "2026-10-13T08:04:45.705Z",
+        "deleted_at": null,
+        "title": "A: понятный коричневый.",
+        "published_date": "1996-06-16",
+        "category": 5,
+        "publisher": "d15597fe-d7e9-4028-84d2-e0b2142f34c5",
+        "summary": "Свежий космос посидеть тысяча кидать гулять. Отметить ученый мягкий сверкающий дыхание печатать освобождение. Граница пропаганда ночь запеть.",
+        "page_count": 330,
+        "cover": "",
+        "genres": [
+            4
+        ]
+    }
+}
+]

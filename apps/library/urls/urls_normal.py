@@ -9,6 +9,8 @@ from django.urls import path, include
 # BookDetailView
 #                     )
 
+from apps.library.views.borrows_api_view_class import MyBorrowsListAPIView
+
 
 from rest_framework.routers import DefaultRouter, SimpleRouter
 from apps.library.views.viewsets import BookViewSet, CategoryViewSet, GenreViewSet
@@ -22,6 +24,7 @@ router.register(r'genres', GenreViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
+    path('me/', MyBorrowsListAPIView.as_view()),
 ]
 
 

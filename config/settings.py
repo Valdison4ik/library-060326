@@ -50,6 +50,8 @@ INSTALLED_APPS = [
     'apps.base.apps.BaseConfig',
     'apps.library.apps.LibraryConfig',
     'apps.users.apps.UsersConfig',
+
+    'drf_spectacular',
 ]
 
 MIDDLEWARE = [
@@ -152,15 +154,19 @@ REST_FRAMEWORK = {
         'rest_framework.throttling.UserRateThrottle'
     ],
     'DEFAULT_THROTTLE_RATES': {
-        'anon': '1/m',
-        'user': '1/m'
-    }
+        'anon': '100/m',
+        'user': '100/m'
+    },
+    'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
 }
 
+SPECTACULAR_SETTINGS = {
+     'REDOC_DIST': 'https://cdn.jsdelivr.net/npm/redoc@2.5.4',
+}
 
 SIMPLE_JWT = {
-    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=1),
-    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),
+    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=10),
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=100),
     'ROTATE_REFRESH_TOKENS': True, # при refresh генерить новый refresh
     'BLACKLIST_AFTER_ROTATION': True,
     'UPDATE_LAST_LOGIN': True,

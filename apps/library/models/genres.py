@@ -15,3 +15,8 @@ class GenreModel(OrderedModel):
 
     def __str__(self):
         return f'{self.parent} -> {self.name}' if self.parent else self.name
+
+    class Meta:
+        permissions = [
+            ('can_get_statistic', 'Can get statistic'),
+        ]

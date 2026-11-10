@@ -8,8 +8,8 @@ from rest_framework import generics, mixins
 
 
 from apps.library.models import BookModel, BookAuthorModel, CategoryModel
-from apps.library.serializers import BookListCreateSerializer, CategorySerializer
-from serializers import BookDetailSerializer
+from apps.library.serializers import BookListCreateSerializer, CategorySerializer, BookDetailSerializer
+
 
 
 # class BookListView(GenericAPIView):
